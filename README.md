@@ -43,11 +43,14 @@
 
 ### SCREENSHOTS :
 
+## Image
 ![image](https://github.com/KrishnaSaiRadhesh/Human-detection-and-counting-using-python/assets/109035471/f79ec2f1-9aa7-4b5b-9044-d779757bb74c)
 ![image](https://github.com/KrishnaSaiRadhesh/Human-detection-and-counting-using-python/assets/109035471/4cf897aa-8fbf-403b-8806-991c531dfaa6)
-![image](https://github.com/KrishnaSaiRadhesh/Human-detection-and-counting-using-python/assets/109035471/80648066-ec14-4c1c-8c18-7dcae7df4490)
+![image](https://github.com/KrishnaSaiRadhesh/Human-detection-and-counting-using-python/assets/109035471/8cd1bdb0-ac65-45b6-bee4-0b6fe2b1f319)
 ![image](https://github.com/KrishnaSaiRadhesh/Human-detection-and-counting-using-python/assets/109035471/1ce4ee8e-b13c-49bd-8a59-3d73b7cbb82c)
 ![image](https://github.com/KrishnaSaiRadhesh/Human-detection-and-counting-using-python/assets/109035471/a7412f95-390a-4b64-99ae-d3250c997499)
+
+## Video:
 
 
 
