@@ -47,10 +47,22 @@
 ![image](https://github.com/KrishnaSaiRadhesh/Human-detection-and-counting-using-python/assets/109035471/f79ec2f1-9aa7-4b5b-9044-d779757bb74c)
 ![image](https://github.com/KrishnaSaiRadhesh/Human-detection-and-counting-using-python/assets/109035471/4cf897aa-8fbf-403b-8806-991c531dfaa6)
 ![image](https://github.com/KrishnaSaiRadhesh/Human-detection-and-counting-using-python/assets/109035471/8cd1bdb0-ac65-45b6-bee4-0b6fe2b1f319)
+![image](https://github.com/KrishnaSaiRadhesh/Human-detection-and-counting-using-python/assets/109035471/3b80b7ca-dc46-48fe-bad2-801cf329fd2d)
 ![image](https://github.com/KrishnaSaiRadhesh/Human-detection-and-counting-using-python/assets/109035471/1ce4ee8e-b13c-49bd-8a59-3d73b7cbb82c)
 ![image](https://github.com/KrishnaSaiRadhesh/Human-detection-and-counting-using-python/assets/109035471/a7412f95-390a-4b64-99ae-d3250c997499)
 
 ## Video:
+
+![image](https://github.com/KrishnaSaiRadhesh/Human-detection-and-counting-using-python/assets/109035471/f250a5f7-d57a-4b8f-9649-182e4bb9db1f)
+![image](https://github.com/KrishnaSaiRadhesh/Human-detection-and-counting-using-python/assets/109035471/35a59c1c-5299-4455-b8df-c816f5e93637)
+![image](https://github.com/KrishnaSaiRadhesh/Human-detection-and-counting-using-python/assets/109035471/ea18f0fa-2229-492d-aeb9-05dad34142a7)
+![image](https://github.com/KrishnaSaiRadhesh/Human-detection-and-counting-using-python/assets/109035471/202f02e7-0cc1-4c18-86a5-f21f8675a6d0)
+![image](https://github.com/KrishnaSaiRadhesh/Human-detection-and-counting-using-python/assets/109035471/13afb6f6-25ae-49c3-bc68-b60d3994bfb0)
+
+## Camera:
+
+
+
 
 
 
