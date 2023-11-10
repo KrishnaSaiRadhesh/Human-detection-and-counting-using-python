@@ -1,7 +1,7 @@
-## ✔ REAL TIME HUMAN DETECTION & COUNTING
+## HUMAN DETECTION & COUNTING USING PYTHON
 - An application which allows to detect human or people's in any image, video or even through Camera.
 - Also along with detecting, it also counts the maximum no. of people appeared.
-- It also visualize the data of no. of human detected and the avg. accuracy with which humans got detected w.r.t. time, using graph plot.
+- It also visualize the data of no. of human detected.
 
 ****
 
@@ -28,11 +28,8 @@
 - When user selects any of the first two option, he/she needs to select the respective files using SELECT button.
 - User can preview the selected file using PREVIEW button, and detect and count the humans using DETECT button.
 - And when user selects, the last option of detecting through camera, user need to open the Camera, using OPEN CAMERA button, As soon as camera opens, detection process will start.
-- After detection process gets completed or user manually completes it, two graph get plotted, 
-	- 1.) Enumeration Plot(Human Count Vs. time) and 
-	- 2.) Avg. Accuracy Plot(Avg. Accuracy Vs. time).
-- Along with this two plots, an option to generate crowd report also appears, On clicking on it, a crowd report in form of PDF is generated ans saved autmatically at the project file location.
-- In the crowd report genrated, there will be information like, What is Max Human Count, Max Accuracy, Max Avg. Accuracy, and also a two line status about crowd.
+- After detecting a crowd report will be generated in the form of PDF and saved automatically at the project file location. in that it gives us 
+- In the crowd report generated, there will be information like the count of humans detected.
 
 ### Purrpose :
 - This scripts helps user to easily get the count of human through real time image, video or camera, and thereafter also analysis of crowd through crowd report.
